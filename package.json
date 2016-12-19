@@ -1,0 +1,22 @@
+{
+  "name": "rxjs-learn",
+  "version": "1.0.0",
+  "description": "learn rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codering/rxjs-learn.git"
+  },
+  "keywords": [
+    "rxjs"
+  ],
+  "author": "codering",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codering/rxjs-learn/issues"
+  },
+  "homepage": "https://github.com/codering/rxjs-learn#readme"
+}
